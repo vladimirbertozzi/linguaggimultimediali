@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <title>ciao</title>
+  <script src="aframe.min.js"></script>
+  <script src="AR.js-master/aframe/build/aframe-ar.js"></script><!--includo lo script di A-Frame-->
+</head>
+<body>
+  <a-scene embedded arjs>
+
+<a-sphere position="0 0.5 0" color="tomato" scale="0.3 o.3 o.3"></a-sphere>
+<a-marker-camera type='pattern' url="htdocs/marker/pattern-marker.patt"></a-marker-camera>
+
+  </a-scene> <!--imposto la scena che conterrà tutto-->
+</body>
+</html>

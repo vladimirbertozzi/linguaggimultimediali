@@ -1,2 +1,2 @@
 # linguaggimultimediali
-test in classe per capire come funziona github aggiungo una riga di testo
+test in classe per capire come funziona github. oggi è giornata.
